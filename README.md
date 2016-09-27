@@ -22,5 +22,10 @@
                 --version                   打印版本
                 
 #TODOLIST
-变成exe
-添加图形化界面
+-变成exe
+-添加图形化界面
+
+#MOTIVATION
+有一些资料，是很多html的，不方便查看和搜索
+就觉得如果能生成一个目录就好啦
+于是就有了makeindex!
